@@ -1,0 +1,13 @@
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\bin\Debug\netcoreapp3.1\CalculaConsumoCombustivel.exe
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\bin\Debug\netcoreapp3.1\CalculaConsumoCombustivel.deps.json
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\bin\Debug\netcoreapp3.1\CalculaConsumoCombustivel.runtimeconfig.json
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\bin\Debug\netcoreapp3.1\CalculaConsumoCombustivel.runtimeconfig.dev.json
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\bin\Debug\netcoreapp3.1\CalculaConsumoCombustivel.dll
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\bin\Debug\netcoreapp3.1\CalculaConsumoCombustivel.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\obj\Debug\netcoreapp3.1\CalculaConsumoCombustivel.csprojAssemblyReference.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\obj\Debug\netcoreapp3.1\CalculaConsumoCombustivel.AssemblyInfoInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\obj\Debug\netcoreapp3.1\CalculaConsumoCombustivel.AssemblyInfo.cs
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\obj\Debug\netcoreapp3.1\CalculaConsumoCombustivel.csproj.CoreCompileInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\obj\Debug\netcoreapp3.1\CalculaConsumoCombustivel.dll
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\obj\Debug\netcoreapp3.1\CalculaConsumoCombustivel.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaConsumoCombustivel\obj\Debug\netcoreapp3.1\CalculaConsumoCombustivel.genruntimeconfig.cache
