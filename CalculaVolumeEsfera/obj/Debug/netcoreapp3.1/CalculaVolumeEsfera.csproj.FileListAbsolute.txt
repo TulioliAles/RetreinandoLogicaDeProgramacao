@@ -1,0 +1,13 @@
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\bin\Debug\netcoreapp3.1\CalculaVolumeEsfera.exe
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\bin\Debug\netcoreapp3.1\CalculaVolumeEsfera.deps.json
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\bin\Debug\netcoreapp3.1\CalculaVolumeEsfera.runtimeconfig.json
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\bin\Debug\netcoreapp3.1\CalculaVolumeEsfera.runtimeconfig.dev.json
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\bin\Debug\netcoreapp3.1\CalculaVolumeEsfera.dll
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\bin\Debug\netcoreapp3.1\CalculaVolumeEsfera.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\obj\Debug\netcoreapp3.1\CalculaVolumeEsfera.csprojAssemblyReference.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\obj\Debug\netcoreapp3.1\CalculaVolumeEsfera.AssemblyInfoInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\obj\Debug\netcoreapp3.1\CalculaVolumeEsfera.AssemblyInfo.cs
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\obj\Debug\netcoreapp3.1\CalculaVolumeEsfera.csproj.CoreCompileInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\obj\Debug\netcoreapp3.1\CalculaVolumeEsfera.dll
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\obj\Debug\netcoreapp3.1\CalculaVolumeEsfera.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\CalculaVolumeEsfera\obj\Debug\netcoreapp3.1\CalculaVolumeEsfera.genruntimeconfig.cache
