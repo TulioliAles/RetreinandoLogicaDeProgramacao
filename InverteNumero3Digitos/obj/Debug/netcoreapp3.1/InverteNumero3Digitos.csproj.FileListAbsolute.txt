@@ -1,0 +1,13 @@
+C:\work\c#\InverteNumero3Digitos\bin\Debug\netcoreapp3.1\InverteNumero3Digitos.exe
+C:\work\c#\InverteNumero3Digitos\bin\Debug\netcoreapp3.1\InverteNumero3Digitos.deps.json
+C:\work\c#\InverteNumero3Digitos\bin\Debug\netcoreapp3.1\InverteNumero3Digitos.runtimeconfig.json
+C:\work\c#\InverteNumero3Digitos\bin\Debug\netcoreapp3.1\InverteNumero3Digitos.runtimeconfig.dev.json
+C:\work\c#\InverteNumero3Digitos\bin\Debug\netcoreapp3.1\InverteNumero3Digitos.dll
+C:\work\c#\InverteNumero3Digitos\bin\Debug\netcoreapp3.1\InverteNumero3Digitos.pdb
+C:\work\c#\InverteNumero3Digitos\obj\Debug\netcoreapp3.1\InverteNumero3Digitos.csprojAssemblyReference.cache
+C:\work\c#\InverteNumero3Digitos\obj\Debug\netcoreapp3.1\InverteNumero3Digitos.AssemblyInfoInputs.cache
+C:\work\c#\InverteNumero3Digitos\obj\Debug\netcoreapp3.1\InverteNumero3Digitos.AssemblyInfo.cs
+C:\work\c#\InverteNumero3Digitos\obj\Debug\netcoreapp3.1\InverteNumero3Digitos.csproj.CoreCompileInputs.cache
+C:\work\c#\InverteNumero3Digitos\obj\Debug\netcoreapp3.1\InverteNumero3Digitos.dll
+C:\work\c#\InverteNumero3Digitos\obj\Debug\netcoreapp3.1\InverteNumero3Digitos.pdb
+C:\work\c#\InverteNumero3Digitos\obj\Debug\netcoreapp3.1\InverteNumero3Digitos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\bin\Debug\netcoreapp3.1\VerificaParImpar.exe
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\bin\Debug\netcoreapp3.1\VerificaParImpar.deps.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\bin\Debug\netcoreapp3.1\VerificaParImpar.runtimeconfig.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\bin\Debug\netcoreapp3.1\VerificaParImpar.runtimeconfig.dev.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\bin\Debug\netcoreapp3.1\VerificaParImpar.dll
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\bin\Debug\netcoreapp3.1\VerificaParImpar.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\obj\Debug\netcoreapp3.1\VerificaParImpar.csprojAssemblyReference.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\obj\Debug\netcoreapp3.1\VerificaParImpar.AssemblyInfoInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\obj\Debug\netcoreapp3.1\VerificaParImpar.AssemblyInfo.cs
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\obj\Debug\netcoreapp3.1\VerificaParImpar.csproj.CoreCompileInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\obj\Debug\netcoreapp3.1\VerificaParImpar.dll
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\obj\Debug\netcoreapp3.1\VerificaParImpar.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaParImpar\obj\Debug\netcoreapp3.1\VerificaParImpar.genruntimeconfig.cache

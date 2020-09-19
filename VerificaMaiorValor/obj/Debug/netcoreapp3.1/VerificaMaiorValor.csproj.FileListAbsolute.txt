@@ -1,0 +1,12 @@
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\bin\Debug\netcoreapp3.1\VerificaMaiorValor.exe
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\bin\Debug\netcoreapp3.1\VerificaMaiorValor.deps.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\bin\Debug\netcoreapp3.1\VerificaMaiorValor.runtimeconfig.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\bin\Debug\netcoreapp3.1\VerificaMaiorValor.runtimeconfig.dev.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\bin\Debug\netcoreapp3.1\VerificaMaiorValor.dll
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\bin\Debug\netcoreapp3.1\VerificaMaiorValor.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\obj\Debug\netcoreapp3.1\VerificaMaiorValor.AssemblyInfoInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\obj\Debug\netcoreapp3.1\VerificaMaiorValor.AssemblyInfo.cs
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\obj\Debug\netcoreapp3.1\VerificaMaiorValor.csproj.CoreCompileInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\obj\Debug\netcoreapp3.1\VerificaMaiorValor.dll
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\obj\Debug\netcoreapp3.1\VerificaMaiorValor.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValor\obj\Debug\netcoreapp3.1\VerificaMaiorValor.genruntimeconfig.cache
