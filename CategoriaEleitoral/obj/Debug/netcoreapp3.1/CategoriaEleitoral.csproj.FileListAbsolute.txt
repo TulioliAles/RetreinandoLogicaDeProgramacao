@@ -1,0 +1,13 @@
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\obj\Debug\netcoreapp3.1\CategoriaEleitoral.csprojAssemblyReference.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\obj\Debug\netcoreapp3.1\CategoriaEleitoral.AssemblyInfoInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\obj\Debug\netcoreapp3.1\CategoriaEleitoral.AssemblyInfo.cs
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\obj\Debug\netcoreapp3.1\CategoriaEleitoral.csproj.CoreCompileInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\bin\Debug\netcoreapp3.1\CategoriaEleitoral.exe
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\bin\Debug\netcoreapp3.1\CategoriaEleitoral.deps.json
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\bin\Debug\netcoreapp3.1\CategoriaEleitoral.runtimeconfig.json
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\bin\Debug\netcoreapp3.1\CategoriaEleitoral.runtimeconfig.dev.json
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\bin\Debug\netcoreapp3.1\CategoriaEleitoral.dll
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\bin\Debug\netcoreapp3.1\CategoriaEleitoral.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\obj\Debug\netcoreapp3.1\CategoriaEleitoral.dll
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\obj\Debug\netcoreapp3.1\CategoriaEleitoral.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\CategoriaEleitoral\obj\Debug\netcoreapp3.1\CategoriaEleitoral.genruntimeconfig.cache

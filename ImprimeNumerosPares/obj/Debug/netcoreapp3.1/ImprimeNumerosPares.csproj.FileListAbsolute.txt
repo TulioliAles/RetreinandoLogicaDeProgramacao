@@ -1,0 +1,13 @@
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\bin\Debug\netcoreapp3.1\ImprimeNumerosPares.exe
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\bin\Debug\netcoreapp3.1\ImprimeNumerosPares.deps.json
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\bin\Debug\netcoreapp3.1\ImprimeNumerosPares.runtimeconfig.json
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\bin\Debug\netcoreapp3.1\ImprimeNumerosPares.runtimeconfig.dev.json
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\bin\Debug\netcoreapp3.1\ImprimeNumerosPares.dll
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\bin\Debug\netcoreapp3.1\ImprimeNumerosPares.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\obj\Debug\netcoreapp3.1\ImprimeNumerosPares.csprojAssemblyReference.cache
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\obj\Debug\netcoreapp3.1\ImprimeNumerosPares.AssemblyInfoInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\obj\Debug\netcoreapp3.1\ImprimeNumerosPares.AssemblyInfo.cs
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\obj\Debug\netcoreapp3.1\ImprimeNumerosPares.csproj.CoreCompileInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\obj\Debug\netcoreapp3.1\ImprimeNumerosPares.dll
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\obj\Debug\netcoreapp3.1\ImprimeNumerosPares.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\ImprimeNumerosPares\obj\Debug\netcoreapp3.1\ImprimeNumerosPares.genruntimeconfig.cache

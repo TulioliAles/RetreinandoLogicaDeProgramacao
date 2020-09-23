@@ -1,0 +1,13 @@
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\bin\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.exe
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\bin\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.deps.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\bin\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.runtimeconfig.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\bin\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.runtimeconfig.dev.json
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\bin\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.dll
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\bin\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\obj\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.csprojAssemblyReference.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\obj\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.AssemblyInfoInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\obj\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.AssemblyInfo.cs
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\obj\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.csproj.CoreCompileInputs.cache
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\obj\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.dll
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\obj\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.pdb
+C:\work\c#\ExerciciosLogicaProgramacao\VerificaMaiorValorOtimizado\obj\Debug\netcoreapp3.1\VerificaMaiorValorOtimizado.genruntimeconfig.cache
